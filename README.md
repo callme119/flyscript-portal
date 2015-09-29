@@ -2,6 +2,7 @@
 具体功能不清楚。
 引用的目的，在于我们使用其 第三方插件中的 showloading.js
 
+文件位置：/thirdparty
 Riverbed FlyScript Dashboard
 ============================
 
