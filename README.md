@@ -1,3 +1,7 @@
+一个使用python在django下写的程序。
+具体功能不清楚。
+引用的目的，在于我们使用其 第三方插件中的 showloading.js
+
 Riverbed FlyScript Dashboard
 ============================
 
